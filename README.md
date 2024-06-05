@@ -1,0 +1,3 @@
+# An-Integrated-Approach-to-Transcription-Translation-and-Summarization
+
+This project develops an integrated audio processing utility designed to enhance the accessibility of spoken content. Utilizing cutting-edge deep learning models, the utility performs real-time transcription, translation from English to Chinese, and summarization of audio files. Key features include generating precise transcriptions with timestamps, producing accurate translations while maintaining timeline integrity, and condensing content into concise summaries using BART and T5 models. Ideal for students, professionals, and anyone needing efficient processing of audio content for better comprehension and accessibility.
